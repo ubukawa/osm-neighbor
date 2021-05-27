@@ -1,0 +1,3579 @@
+ç∂x
+road(Ä highwayrcn_refref
+tiger:cfcctiger:countytiger:name_basetiger:name_base_1tiger:reviewednametiger:name_typeonewaytiger:name_direction_prefixmaxspeedalt_nametiger:zip_lefttiger:zip_righthgvhgv:state_networklanestiger:name_base_2destinationdestination:reflayerbridgedestination:streetjunction:refsurfacefixmebicyclecyclewayname_1tiger:name_type_1tiger:name_direction_suffixcycleway:rightturn:lanes:forwardjunctionhorsesidewalkmaxspeed:advisorydestination:symbolfootminspeed	placement
+turn:laneslitinclinedestination:lanesdestination:ref:lanesdestination:street:lanesdestination:symbol:lanes
+overtakingchange:lanesdestination:ref:to:lanesdestination:ref:to
+expresswaytiger:name_direction_prefix_1changechange:backwardchange:forwardmaxspeed:backwardmaxspeed:forwardmaxspeed:hgvlcn	foot:lefttiger:name_direction_suffix_1traffic_signtransit:laneslanes:backwardlanes:both_wayslanes:forwardturn:lanes:both_waysturnchange:lanes:backwardchange:lanes:forwardbicycle:lanesmaxspeed:typename_2tiger:name_type_2	motorroadname_3tiger:name_base_3hovFIXME	hov:lanes
+tiger:tlidtiger:sourcetiger:separatedtiger:upload_uuidtiger:name_type_3"
+trunk"
+27"
+NY 27"
+A31"
+Suffolk, NY"
+Montauk Point State Pwy"
+State Highway 27"
+no"
+Montauk Highway"
+Montauk Point State Parkway"
+Montauk Point State"
+Pky"
+Montauk-Hway-Main"
+St"
+yes"
+
+trunk_link"
+A41"
+Delrey"
+Rd"
+S"
+A63"
+55 mph"
+Main Street"	
+Pantigo"
+Pantigo Road"
+11937"
+Main"
+Woods"
+Ln"
+
+Woods Lane"	
+Montauk"
+Hwy"
+Daniels Hole"
+
+designated"
+NY 27;CR 39"
+County Road No 39"
+County Road 39"
+4"
+A35"
+11968"
+North"
+NY 27;CR 39A"
+County Road 39A"	
+A31:A63"
+Southampton"
+CR 39A"
+
+New York"
+NY 27 & CR 39 West"9
+7County Road 39:Golf:N:North:North;County Road 39;N;Golf"_
+]County Road 39:County Road 39;State Highway 27;County Road 39;County Road 39:State Highway 27"
+Hwy:Rd:Rd;Hwy;Rd"
+2"	
+Sunrise"
+motorway_link"
+35 mph"
+Hampton Bays"
+CR 39"
+
+motorway"
+Sunrise Highway"
+1"
+
+Shinnecock"
+
+North Road"
+66"
+
+concrete"
+
+NY 27 East"
+
+NY 27 West"
+name?"
+
+St Andrews"
+lane"
+Flanders Road"
+24"
+NY 24"
+Riverhead-Hampton Bays"
+
+Flanders"
+State Highway 24"
+11901"
+Flanders;Riverhead"
+NY 24 North"
+65N"
+Flanders Rd"
+Riverhead-Hampton Bays Road"
+NY 24 South;To CR-80"
+65 S"
+	Riverhead"
+65 N"
+CR 104 North"
+64 N"
+Quogue;East Quogue"
+CR 104 South"
+64 S"
+CR 31 North"
+63 N"
+Westhampton Beach;Westhampton"
+CR 31 South"
+63 S"
+CR 31 North;To CR 104 North"
+Westhampton Beach"
+CR 51"
+Old East Moriches Riverhea"
+East Moriches-Riverhead Road"
+County Road 51"
+A45"
+Center"
+Dr"
+Center Drive South"
+County Road 105"
+CR 105"
+Cross River"
+Cross River Drive"	
+A41:A63"
+NY 24;CR 94"
+Nugent"
+left|through"
+Nugent Drive"
+throughabout"	
+asphalt"
+CR 94A"
+County Road 94A"
+right"
+
+NY 25 East"
+40 mph"
+West Main Street"
+food;lodging"
+I 495"
+none"
+A15"
+Greenport;Orient"
+
+CR 58 East"
+I-495"
+Long Island"
+Expy"
+Old Country Road"
+
+hospital"
+Long Island Expressway"
+3"
+Riverhead;Calverton"
+72"
+NY 25"
+airport;food;lodging"
+middle_of:2"
+|||merge_to_left"
+
+I 495 West"
+Water Park;Calverton"
+
+NY 25 West"	
+airport"
+73"
+30 mph"
+up"
+middle_of:1"
+through|right"
+Greenport;Orient|Tanger Mall"
+CR 58 East|"$
+"Old Country Road|Tanger Mall Drive"
+hospital|fuel_ev"
+no|no"&
+$Greenport;Orient|Riverhead;Calverton"
+CR 58 East|NY 25"#
+!Old Country Road|West Main Street"
+hospital|food;lodging"E
+CNY 27;CR 51 East;CR 63 South;CR 80;CR 94A North;CR 104 South;CR 105"	
+A35;A31"	
+Edwards"
+Ave"
+11933"
+Edwards Avenue South"
+Calverton;New York"
+motorway;airport"
+Edwards Avenue"
+Calverton|Hampton Bays"%
+#Edwards Avenue|Edwards Avenue South"
+
+airport|"
+
+left|right"
+Hampton Bays;Calverton"
+NY 24;CR 94;To NY 27"
+NY 24 West|NY 24 East"F
+D|NY 27;CR 51 East;CR 63 South;CR 80;CR 94A North;CR 104 South;CR 105"
+
+NY 24 East"
+CR 94"
+|merge_to_left"
+
+Route 51"
+Riverhead-Moriches"
+East Moriches;Riverhead"
+
+Manorville"
+CR 111 North;To I 495 West"
+Port Jefferson-Westhampton Rd"
+CR 111"
+Captain Daniel Roe Hwy"!
+Port Jefferson-Westhampton Road"
+Captain Daniel Roe"
+Port Jefferson-Westhampton"
+County Road 111"
+11949"
+Captain Daniel Roe Highway"
+Montauk Avenue"
+Eastport Manor"
+Eastport Manor Road" 
+Sunrise Hwy North Service Road""
+ East Moriches;Riverhead;Eastport"
+CR 51;CR 55"
+61"
+CR 111 North"
+62"
+
+Eastport"
+CR 55 South" 
+Sunrise Hwy South Service Road"
+To NY 27 West"
+Moriches-Riverhead"
+none|merge_to_left"
+Riverhead;Eastport"
+CR 51 North;CR 55 South"
+CR 51 North"
+none|none|right"
+East Moriches"
+CR 51 South"
+E"
+CR 51 North;To NY-27"#
+!Sunrise Highway Eastbound;Montauk"
+
+To CR 55"
+Manorville;Eastport""
+ CR 111 North;To I 495 West;CR 55"
+East Shoreham;Wading River"
+I 495;NY 25;NY 27"
+|parking;camp_site"
+
+roundabout"
+25 mph"
+15 mph"
+William Floyd"
+Suffolk Boulevard"
+I 495;NY 25;NY 27;CR 80"
+CR 46"
+William Floyd Parkway"	
+Suffolk"
+Blvd"
+parking;camp_site"
+
+dismount"
+20 mph"
+A49"
+Smith Point"
+Brg"
+Smith Point Bridge"
+45 mph"
+I 495;NY 25"
+left|||right"
+no|no|no|no"?
+=|Smith Point Park|Smith Point Park|Shirley Marina County Park"!
+Fairlawn Court|||East Concourse"
+|camp_site|camp_site|"$
+"|Smith Point Park|Smith Point Park"
+Lyndale Court||"
+|camp_site|camp_site"
+
+right_of:2"
+left||"
+no|not_left|not_right"
+Roneck Court||"
+left||merge_to_left"
+William Floyd Parkway North"
+CR 46 North"
+Probst Drive"
+Stuart Road"
+6"
+
+right_of:4"
+left|left||||"o
+mPatchogue|Patchogue|East Shoreham;Wading River|East Shoreham;Wading River|East Shoreham;Wading River|Moriches"F
+DCR 80 West|CR 80 West|I 495;NY 27|I 495;NY 27|I 495;NY 27|CR 80 East"
+||motorway|motorway|motorway|"
+through|through|through;right"
+I 495;NY 27;CR 80"
+I 495;NY 27"
+middle_of:4"
+left|left||||right"
+no|no|no|no|no|no"7
+5||Smith Point Park|Smith Point Park|Smith Point Park|"%
+#CR 80 East|CR 80 East||||CR 80 West"
+
+no|no|no"
+
+||New York"
+||NY 27 West"
+McGraw Street East"
+	left|left"
+both"
+right|right"
+Shirley;Smith Point Park"
+CR 46 South"6
+4||Smith Point Park|Smith Point Park|Smith Point Park"
+CR 80"
+CR 80 East|CR 80 East|||"
+5"
+left|left|||"
+Smith Point Park"
+||McGraw Street"
+||CR 80|CR 80|CR 80"-
++McGraw Street|McGraw Street|||McGraw Street"&
+$through|through|through;slight_right"
+	||Montauk"
+||NY 27 East"
+left||||right"T
+R|East Shoreham;Wading River|East Shoreham;Wading River|East Shoreham;Wading River|"'
+%|I 495;NY 25|I 495;NY 25|I 495;NY 25|"
+	CR 16||||"
+|motorway|motorway|motorway|"	
+Shirley"
+58 S"$
+"left|through|through|through|right"
+no|no|no|no|no"N
+L|Shirley;Smith Point Park|Shirley;Smith Point Park|Shirley;Smith Point Park|"
+|NY 27|NY 27|NY 27|"
+Wading River"
+CR 46 North;To I 495"
+58 N"*
+(William Floyd Parkway North;Wading River"
+CR 46 North;To I-495"
+||merge_to_left"
+left|none|none|right"	
+Yaphank"
+CR 16 West;To CR 21 North"
+Horseblock Road"
+57 N"
+
+Brookhaven"
+CR 16 East;To CR 80"
+57 S"
+CR 21 South;To CR 80"
+Yaphank Avenue"
+Bellport;Yaphank"
+Station Road"
+56"
+Farmingville;Yaphank"
+Yaphank;East Patchogue"
+CR 101"
+NY 27;CR 64;CR 16"
+
+Sills Road"
+A64"
+left|through|right"
+Long Island Expy North Srv Rd"!
+East Patchogue|New York|Yaphank"
+
+Marginal"
+Pl"+
+)CR 101 South|I 495 West;CR 64|CR 101 East"
+NY 27;CR 16||CR 64"$
+"Patchogue Yaphank Road||Sills Road"
+N"
+
+I 495 East"
+Long Island Expy South Srv Rd"
+
+Expressway"
+NY 27;CR 16;CR 64"3
+1New York|New York|New York|Yaphank;East Patchoque"
+	|||CR 101"
+|||Sills Road"
+Yaphank;Brookhaven"
+67"
+CR 21"
+NY 25;NY 27;CR 16;CR 24 East"
+train_station;police"
+left;through|right"
+|Suffolk Cemetery"
+CR 21 North|CR 21 South"
+NY 25;CR 24 East|NY 27;CR 16"
+|train_station;police"
+left;through|through;right"
+Suffolk Cemetery|"
+CR 21 South|CR 21 North"
+NY 27;CR 16|NY 25;CR 24 East"
+train_station;police|"
+yes|yes|not_right|no"+
+)Long Island Expressway North Service Road",
+*William Floyd Parkway;Shirley;Wading River"
+CR 46;To NY 27"
+68"
+I 495 East;CR 46"#
+!I 495 West;NY 25;NY 27;CR 24 West"+
+)Long Island Expressway South Service Road"
+Shirley;Wading River"
+NY 25;NY 27;CR 24 West"
+||slight_right"`
+^Brookhaven Laboratory;Wading River|Brookhaven Laboratory;Wading River|Shirley;Smith Point Park"%
+#CR 46 North|CR 46 North|CR 46 South")
+'NY 25;CR 24 West|NY 25;CR 24 West|NY 27"
+	||airport"
+
+A63; A64"
+
+right_of:1"
+
+US:W11-3"P
+NShirley;Smith Point Park;Riverhead|Shirley;Smith Point Park;Riverhead|New York".
+,I 495 East;NY 27|I 495 East;NY 27|I 495 West"
+airport|airport|motorway"$
+"Shirley;Smith Point Park;Riverhead"
+I 495 East;NY 27",
+*New York|New York|Shirley;Smith Point Park"
+50 mph"#
+!I 495 West|I 495 West|CR 46 South"	
+||NY 27"
+motorway|motorway|airport"=
+;Shirley;Smith Point Park|Shirley;Smith Point Park|Riverhead"
+NY 27|NY 27|I 495 East"8
+6Riverhead|Riverhead|Brookhaven Laboratory;Wading River"#
+!I 495 East|I 495 East|CR 46 North"
+||NY 25;CR 24 West"
+||William Floyd Parkway"
+motorway|motorway|"P
+NBrookhaven Laboratory;Wading River|Brookhaven Laboratory;Wading River|New York".
+,NY 25;CR 24 West|NY 25;CR 24 West|I 495 West"
+
+||motorway"$
+"Brookhaven Laboratory;Wading River"9
+7William Floyd Parkway North;Wading River;Brookhaven Lab"
+down"
+yes|not_right|no"7
+5Wading River;New York|Wading River;New York|Riverhead"D
+BI 495 West;NY 25;CR 24 West|I 495 West;NY 25;CR 24 West|I 495 East"	
+||right"4
+2Shirley;Smith Point Park|Shirley;Smith Point Park|"
+NY 27|NY 27|"
+left|||slight_right"C
+A|Wading River;Riverhead;New York|Wading River;Riverhead;New York|"1
+/|I 495;NY 25;CR 24 West|I 495;NY 25;CR 24 West|"
+|motorway|motorway|"B
+@|Wading River;Riverhead;New York|Wading River;Riverhead;New York"0
+.|I 495;NY 25;CR 24 West|I 495;NY 25;CR 24 West"
+|motorway|motorway"
+Wading River;New York"
+I 495 West;NY 25;CR 24 West"6
+4William Floyd Parkway South;Shirley;Smith Point Park"
+NY 25;CR 24 West"
+merge_to_right|"
+continue|continue|end"
+Center Moriches;Manorville"
+Railroad Avenue"
+60"
+continue|continue|leave"
+Sunrise Service Road"/
+-Wading River Road;South Manor;Center Moriches"
+Wading River Road"
+59"
+Center Moriches;South Manor"
+left"
+Manorville;Eastport;Montauk"
+CR 111;To NY 27 East"
+70"
+Eastport;Riverhead"
+left|left;through"
+|Manorville"
+left;through|right|right"
+Manorville|Eastport|Eastport"(
+&CR 111 North|CR 111 South|CR 111 South"
+|NY 27|NY 27"
+	left_of:3"
+left|through|through"
+Riverhead|Riverhead|Eastport"
+I 495 East|NY 27|NY 27"
+
+motorway||"
+CR 111 South"
+Wading River|Center Moriches"
+CR 25 North|CR 25 South"
+Wading River;Center Moriches"
+69"
+Center Moriches|Wading River"
+CR 25 South|CR 25 North"
+Center Moriches;Wading River"
+not_left|yes|not_right"M
+KEast Shoreham;Wading River;Port Jefferson|Smith Point Park|Smith Point Park"1
+/CR 46 North|I 495;NY 25;NY 27|I 495;NY 25;NY 27"
+
+NY 25A||"
+	reverse||"
+merge_to_right||"
+11961"f
+dSmith Point Park|East Shoreham;Wading River;Port Jefferson|East Shoreham;Wading River;Port Jefferson"
+CR 46 South|NY 25A|NY 25A"
+I 495;NY 25;NY 27||"+
+)East Shoreham;Wading River;Port Jefferson"
+NY 25A"1
+/I 495;NY 25;NY 27|I 495;NY 25;NY 27|CR 111 West"
+||Whiskey Road"
+NY 25A East"
+Port Jefferson"
+NY 25A West"
+25"
+State Route 25A"
+	Route 25A"
+Rocky Point Bypass"
+not_left|not_right"
+
+backward"
+|designated"
+Smithtown;New York"
+Middle Country Road"8
+6|East Shoreham;Wading River|East Shoreham;Wading River"
+CR 111 West|NY 25A|NY 25A"
+NY 25A;CR 111 West"u
+sEast Shoreham;Wading River;Port Jefferson|Smithtown;Smith Point Park;Riverhead|Smithtown;Smith Point Park;Riverhead"z
+xSmithtown;Smith Point Park;Riverhead|East Shoreham;Wading River;Port Jefferson|East Shoreham;Wading River;Port Jefferson"3
+1CR 46 South|NY 25A;CR 111 West|NY 25A;CR 111 West"L
+J|Smithtown;Smith Point Park;Riverhead|Smithtown;Smith Point Park;Riverhead"&
+$|I 495;NY 25;NY 27|I 495;NY 25;NY 27"
+County Road 46A||"&
+$Smithtown;Smith Point Park;Riverhead"7
+5Smith Point Park|Smith Point Park;Riverhead|Smithtown"E
+CI 495;NY 27;CR 24 West|I 495;NY 25 East;NY 27;CR 24 West|NY 25 West"
+|CR 25|CR 21"*
+(|Middle Country Road|Middle Country Road"
+motorway|airport;motorway|"
+I 495;NY 27;CR 24 West"
+|Calverton;Riverhead"
+|NY 25 East"
+|CR 25"
+|Middle Country Road"
+
+|airport"J
+HEast Shoreham;Wading River|East Shoreham;Wading River|Smithtown;New York"2
+0NY 25A;CR 111 West|NY 25A;CR 111 West|NY 25 West"	
+||CR 21"
+||Middle Country Road"
+Calverton;Riverhead"
+CR 25"^
+\East Shoreham;Wading River|Smithtown;East Shoreham;Wading River;New York|Calverton;Riverhead"=
+;NY 25A;CR 111 West|NY 25 West;NY 25A;CR 111 West|NY 25 East"
+|CR 21|CR 25"1
+/Brookhaven National Laboratory;Smith Point Park"
+|Smithtown;New York"
+|NY 25 West"
+|CR 21"k
+iBrookhaven National Laboratory;Smith Point Park|Brookhaven National Laboratory;Smith Point Park|Riverhead":
+8I 495;NY 27;CR 24 West|I 495;NY 27;CR 24 West|NY 25 East"	
+||CR 25"
+CR 24 West|NY 25|NY 25"
+Longwood Road||"W
+U|East Shoreham;Wading River|East Shoreham;Wading River|Brookhaven National Laboratory"
+CR 24 West|NY 25|NY 25|""
+ Longwood Road|||Princeton Avenue" 
+Brookhaven National Laboratory"R
+PBrookhaven National Laboratory|Shirley;Smith Point Park|Shirley;Smith Point Park"$
+"CR 24 East|I 495;NY 27|I 495;NY 27"
+Princeton Avenue||"$
+"|motorway;airport|motorway;airport"
+
+CR 24 West"
+Industrial Park"=
+;Shirley;Smith Point Park|Brookhaven Laboratory;Wading River"
+CR 46 South|CR 46 North"
+NY 27|NY 25;CR 24 West"
+sign"
+CR 83"
+Patchogue-Mt Sinai"
+County Road 83"
+Patchogue-Mt Sinai Road"
+State Highway 347"
+Nesconset Highway"
+NY 347"
+Nesconset-Port Jefferson"
+	Nesconset""
+ Nesconset-Port Jefferson Highway"
+State Highway 25A"	
+Country")
+'separate into highway and boundary ways"
+Nesconset Hwy"
+Lower Sheep Pasture"
+CR 97"
+Nicolls Road"4
+2State Highway 347; Hauppage-Port Jefferson Highway"
+Smithtown Bypass"%
+#Nesconset; Nesconset-Port Jefferson",
+*State Highway 347; Hauppage-Port Jefferson"
+	Smithtown"
+Byp"
+11790"
+Oxhead"
+Oxhead Road"
+Pond"
+Path"
+Nesconset-Port Jeferson"!
+Nesconset-Port Jeferson Highway"
+-1"
+West"
+	West Road"
+Riverhead;Smithtown"	
+Nicolls"
+County Road 97"3
+1State Highway 347;Hauppage-Port Jefferson Highway"$
+"Nesconset;Nesconset-Port Jefferson"+
+)State Highway 347;Hauppage-Port Jefferson"
+Holbrook;Patchoque"
+CR 19"
+Patchoque-Holbrook Road"
+fuel;fuel_diesel;food;lodging"
+Patchogue Road"
+Patchogue-Holbrook"
+	Patchogue"
+11779"
+Patchogue-Holbrook Road"
+Sayville;Lake Ronkonkoma"
+Ronkonkoma Avenue"
+Oakdale;Ronkonkoma"
+CR 93"
+Ocean Avenue"
+Lake Ronkonkoma;Sayville"
+NY 454"
+Veterans Memorial Highway"
+State Highway 454"
+Veterans Memorial"
+Patchogue-Holbrook Rd"
+Holbrook Road"	
+Waverly"
+11738"
+Waverly Avenue"
+CR 99"X
+VWoodside; County Road 99; Woodside; Woodside; Woodside; County Road 99; County Road 99"
+County Road 99"
+W; E"
+Woodside Avenue"
+Woodside Ave"R
+PWoodside;County Road 99;Woodside;Woodside;Woodside;County Road 99;County Road 99"
+W;E"
+Furrows Road"
+Blue Point;Stony Brook"
+designated|||"é
+ã114021883:114021932:114021933:114021886:114249866:114249868:114249869:114022106:114062973:114249044:114249046:114249047:114249870:114249871" 
+tiger_import_dch_v0.6_20070829"5
+3bulk_upload.pl-979497f3-246c-4530-a7f6-8e8fb9bf0f77"
+Expressway Drive"
+
+Blue Point"
+CR 97 South"
+Stony Brook"
+CR 97 North"
+Expressway Drive North"
+Expressway Drive South"
+Morris Avenue"
+Horseblock Place"
+Portion Road"	
+Frances"
+	Nicholl's"
+Portion Road East"
+Ocean"
+North Ocean Avenue"
+A15:A64; A15",
+*I-495:Long Island Expy South Srv Rd; I-495"
+Patchoque;Mount Sinai"
+63"
+N Ocean Ave"
+Mount Sinai;Patchoque"
+Port Jefferson;Patchoque"
+64"
+NY 112"(
+&fuel;fuel_diesel;food;lodging;hospital"
+Centereach;Shirley"
+65"
+CR 16"
+Horse Block Road"
+Yaphank;Bellport"
+Patchogue;Yaphank"
+55"
+S Service Road"
+State Route 27"
+	114013534"
+	114013506"
+Hospital Road"
+54"
+Patchogue;Port Jefferson"
+53"
+N Service Road"
+11772"2
+0Stony Brook;Blue Point;MacArthur Airport;Commack"
+CR 97;NY 454 West;To I 495" 
+Nicolls Road;Vets Highway West"
+51"	
+A31:A35"
+State Highway 27:Sunrise"
+W"
+Farmingville;Patchogue"
+52 A"
+Patchogue;Holbrook"
+52"
+Port Jefferson;Patchogue"
+East Patchogue"
+11715"
+Purick"
+Purick Street"
+Holbrook;Patchogue"
+Nicolls Road North"
+Sayville;Ronkonkoma"
+Lincoln Avenue"
+50"
+Ronkonkoma;Sayville"
+Lakeland Avenue"
+Sayville;Bohemia"
+Johnson Avenue"
+Bohemia;Oakdale"
+Locust Avenue"#
+!name from TIGER is possibly wrong"
+Robert Moses State"
+Robert Moses State Parkway"
+A11"
+Heckscher State Parkway"
+113999474:113999172"
+	113999442"
+H"Ç
+ˇ114229962:114229965:114229966:113999441:113999476:113999478:114229972:114229973:113998904:113998912:114056959:113998931:113998933:113998936:113998944:113998970:113998612:113998631:113998636:113998657:114229986:114229987:113990219:113997803:113997759:11399"
+A11; A63; A11; A11"
+Oakdale-Bohemia Road"
+	Pond Road"
+Oakdale;Great River"
+A64; A31:A41"H
+FSunrise Hwy South Service Road; Sunrise:Sunrise Hwy South Service Road"
+A64;A64;A41;A41;A41"
+New York;Hekscher Park"
+113990070:113990071"
+113997805:113997765"
+East Islip;Central Islip"
+Carleton Avenue"
+Islip;Smithtown"
+A64;A31:A41"G
+ESunrise Hwy South Service Road;Sunrise:Sunrise Hwy South Service Road"
+destination"
+Brentwood;Bay Shore"
+Brentwood Road"Ç
+ˇ113994345:113994350:114054082:114054083:113994364:114229895:114229896:113994575:113994461:113994495:114243402:114243403:114243198:114243199:113994551:113994555:113993820:113994513:113994514:113994518:113994521:113993831:114243190:114243191:114243196:11424"
+114271434:114274380"
+Central Islip"
+CR 67"
+Motor Parkway"
+Smithtown;Islip"
+NY 111"
+NY 347;NY 454"
+11787"
+Veterans Highway"
+
+Veterans"
+11788"
+through|through|through|right"
+11755"
+Commack;Patchoque"
+57"
+Patchoque;Commack"
+58"
+Old Nichols Road"£
+†114021883:114021932:114021933:114021886:114249866:114249868:114249869:114022106:114062973:114249044:114249046:114249047:114249870:114249871; 114271434:114274380"
+Ronkonkoma;Oakdale"
+New York;West!  "		ƒ    "	Ã
+j'  	"	∂+
+!  
+		"	∆1
+ !  
+		"	∆1
+!  
+		"	∫-
+
+#  
+		"		‘=.!"!  	"	∂i
+!  	"	∆u
+!  	"	¥g
+	!  	"	¶c
+ 
+ 	"	™c
+ !  	"	®c
+ !  	"	§c
+ 
+ "	¶c
+!  		"	–y
+	!  		"	ÿ}
+$  
+		"	ËÅ
+$  
+		"	Ñü
+  "	æ
+  "	¶ 
+  "	ä
+  "	Ä
+
+#  	"	Ó
+
+
+   "	¯
+
+#  	"	ﬁ
+
+#  	"	‹
+
+ #
+  	"	‹
+
+ %
+  	"	ÿ
+
+ #
+  	"	⁄
+
+'
+  	"	ÿ
+
+%
+  	"	ÿ
+
+ %  	"	Œ
+*
+%  	"	‘
+"
+%  	"	ÿ
+
+%  	"	–
+(
+'  	"	 
+2
+!  	"	æ
+0
+ !  	"	º
+0
+ #  	"		∏
+0
+  	"	î
+2
+ !  	"	î
+2
+#!  	"	Ê	B
+5!  	"	Ë	B
+ !  	"		@
+%!  	"	ö	Z
+
+!  	"	ö	Z
+!  	"	∞	P
+!  	"	§	V
+ !  	"	û	X
+%!  	"	à	d
+ %!  	"	Ü	d
+%!  	"	Ç	f
+ %!  	"	Ä	f
+%!  	"	v
+%!  	"	Út
+%!  	"	Ùr
+%!  	"	ˆp
+%!  	"	¯n
+%!  	"	¸j
+ %!  	"	˙l
+ %!  	"	˙n
+ %!  	"	¸l
+ %!  	"	˛j
+ %!  	"	˛h
+ %!  	"	Óx
+%!  	"	Ïz
+ %!  	"	Ï|
+ %!  	"	Í~
+ %!  	"	Ï~
+ "!  "#$"	öû
+"!  "#$"	òû
+ "!  "#$"	ñû
+ "!  "#$"	îú
+&!  %"&$'$"	êú
+ "!  "#$"	íú
+ "!  "#$"	êú
+ ,!  %"($	''$"	åû
+,!  %"($	''$"	äû
+ ,!  %"($	''$"	ä†
+ ,!  %"($	''$"	Ç¢
+ &!  %"$'$"	Ä¢
+ &!  %"$'$"	Ä§
+ &!  %"$'$"	˛§
+ ,!  %"($	''$"	Ñ†
+ ,!  %"($	''$"	Ñ¢
+ ,!  %"($	''$"	Ü†
+ ,!  %"($	''$"	à†
+ "!  "#$"	û†
+ "!  "#$"	††
+ "!  )#*"	¢†
+ &!  )+*''*"	æò
+ &!  )+*''*"	ºò
+ &!  )+*''*"	∫ñ
+&!  )+*''*"	∏ñ
+ "!  )#*"	∂ò
+"!  )#*"	∞ö
+ "!  )#*"	≤ö
+ "!  )#*"	≤ò
+ "!  )#*"	¥ò
+ "!  )#*"	™ú
+ "!  )#*"	Æö
+ "!  )#*"	¨ú
+"!  )#*"	¶û
+"!  )#*"	®ú
+ "!  )#*"	§†
+&!  )+*''*"	¿ò
+ &!  )+*''*"	¿ö
+ &!  )+*''*"	¬ö
+ &!  )+*''*"	ƒö
+ &!  )+*''*"	ƒú
+ 
+ ,"	∆ú
+ (!  
+)+*''*"	∆ú
+   
+-*"	»ú
+ *./! 
++*''"	»ú
+ (!  	"	 ö
+ (!  	"	»ú
+ (!  	"	 ú
+ (!  	"	Ãö
+ (!  	"	Ãò
+(!  	"	‘í
+ (!  	"	‘ê
+ (!  	"	÷ê
+ (!  	"	“í
+ (!  	"	–î
+(!  	"	–ñ
+ (!  	"	Œñ
+ (!  	"	⁄å
+ (!  	"	ﬁå
+ (!  	"	ÿé
+ (!  	"	ÿå
+ (!  	"	÷é
+ &!  	"	ÊÇ
+ &!  	"	ÊÑ
+ &!  	"	‰Ñ
+&!  	"	‚Ü
+ &!  	"	‡à
+&!  	"	‡Ü
+ &!  	"	ËÇ
+ &!  	"	ÍÄ
+,!  %"01	2''$"	æ¢
+ (!  3
+"&4	$"	æ¢
+ (!  3
+&4	$"	º¢
+ (!  3
+&4	$"	º§
+ 
+ "	∫§
+(!  3
+"&4	$"	º¢
+
+ 5"	∫¢
+ *!  36
+&4	$"	∏§
+ (!  3
+"&4	$"	∫§
+ (!  3
+&4	$"	∫§
+ 7 
+8"	∏§
+ (! 93
+&4	:"	ò¨
+ (! 93
+&4	:"	∏§
+%,!3;
+ 9&4	:"	ä¨
+ ,!3;
+ 9&4	:"	å¨
+ (!3
+ 9&4	:"	ê¨
+ (!3
+ 9&4	:"	å¨
+ ,!3;
+ 9&4	:"	à¨
+(!3
+ 9&4	:"	àÆ
+(!3
+ 9&4	:"	ä¨
+ ,!3;
+ 9&4	:"	ÜÆ
+ ,!3;
+ 9&4	:"	í¨
+ $<8= 5>;
+?"	í¨
+(!3
+ 9&4	:"	ê¨
+ @ 5
+"	éÆ
+
+.A 5
+"	ñ¶
+ "<8= 5>;
+"	ö™
+,!  %"01	2''$"	¿¢
+ ,!  %"01	2''$"	¬¢
+ ,!  %"01	2''$"	∆¢
+ ,!  %"01	2''$"	ƒ¢
+ ,!  %"01	2''$"	»¢
+ . B!  %"01	2''$"	Ã¢
+ . B!  %"01	2''$"	Œ¢
+ ,!  %"01	2''$"	 ¢
+ ,!  %"01	2''$"	÷¢
+,!  %"01	2''$"	“¢
+ . B!  %"01	2''$"	–¢
+ ,!  %"01	2''$"	‘¢
+ . !  %6"01	2''$"	ÿ§
+&!  %"$'$"	‰™
+
+ &!  %"$'$"	Ó™
+ (!  %"C$	$"	‹¶
+*!  %"C$	'$"	¯®
+ &!  %"$'$"	™
+*!  %"C$	'$"	ˆ®
+ &!  %"$'$"	Ù®
+ *!  %"($	'$"	˙®
+ *!  %"($	'$"	˙¶
+ &!  %"$'$"	¸¶
+0"!D  EFGHIJ	KKE"	í¢
+0"!D  EFGHIJ	KKE"	§¶
+0"!D  EFGHIJ	KKE"	¶¶
+ 0"!D  EFGHIJ	KKE"	º∞
+	(!3
+ 9&4	:"	ÜÆ
+(!3
+ 9&4	:"	Í∂
+
+ 5"	ˆ∞
+ 
+ 5"	ÄÆ
+,!3;
+ 9&4	:"	Ë∂
+ ,!3;
+ 9&4	:"	Í¥
+(!3
+ 9&4	:"	Ë∂
+
+(!3
+ 9&4	:"	ÿ¿
+	 LM 5N;
+"	‡∫
+	 .A 5;
+"	ÿæ
+ 
+  O
+GP"	ÿ¿
+	*  E
+GHIJ	KKP"	‘∂
+0"!D  EFGHIJ	KKE"	‘∂
+*!3;
+ 9&4	:"	ƒ∆
+ (!3
+ 9&4	:"	÷¿
+(!3
+ 9&4	:"	ƒ∆
+7Q 5R
+"	–ƒ
+
+
+ 5.A"	÷∫
+
+
+ 5@"	ÿ¬
+ 7Q 5R
+"	÷¿
+,!3;
+ 9&4	:"	ÿ¿
+ SM 5T
+"	⁄¿
+ 
+  O
+GP"	⁄»
+*  E
+GHIJ	KKP"	ÿ¬
+
+ 5@"	⁄∆
+*!3
+ 9&4	:"
+	¬∆C*!3
+ 9&4	:"
+	‰“FSU 5V
+"	ÓŒ
+ WX 5Y
+"	‡“
+
+WX 5Y
+"	⁄‘
+
+
+ 5@"	‰‘
+SU 5V
+"	Ê“
+ ,!3;
+ 9&4	:"	‚“
+ ,!3;
+ 9&4	:"	‰“
+ 
+ 5.A"	‚–
+
+ 5@"	‰ÿ
+
+	
+ 5.A"	ﬁŒ
+
+SZ 5[
+"	ƒ÷
+*!3
+ 9&4	:"	‚“
+%,!3
+ 9&4	:"
+	ÿ¸X!2*!3
+ 9&4	:"	º÷
++\] 5^
+"	∞⁄
+
+ 5@"	∫ÿ
+ 
+ 5@"	∏‹
+
+S_ 5[
+"	º÷
+;
+ 5`]"	º÷
+ 
+\] 5^
+"	∫÷
+ 
+ 5.A"	æ“
+  
+abc"	Ñ¢
+,  3d
+aefd 	gKh"
+	òÇ&  3
+aef 	gh"
+	Üú$  3
+aef 	gh"	òÇ
+*  3d
+aefd 	gKh"	öÄ
+)  3d
+aefd 	gKh"	ö~
+ $  3
+aef 	gh"	öÄ
+ %  i
+jki	gl"		¬z(  i
+jmki	gl"
+	¥ú
+'  ;i
+jki	gl"	ƒv
+'  ;i
+jki	gl"	¬z
+#  i
+jki	gl"	ƒv
+#  i
+jki	gl"	 d
+!  i
+jki	gl"	»^
+!  i
+jki	gl"	 d
+!  i
+jki	gl"	»^
+!  i
+jki	gl"	∆Z
+!  i
+jki	gl"	∆Z
+#  i
+jki	gl"		∫B%  i
+jki	gl"	®!  i
+jki	gl"	≤$
+	#  3
+aef 	gh"	ö~
++!!D  3J
+n&oJ	g"pq"	ö|
+ !  #r;
+&oJ	g"	ú|
+ )!!D  3J
+n&oJ	gq"	ú|
+)!!D  3J
+n&oJ	gq"	û|
+ +!!D  3J
+n&oJ	g"pq"	ú|
+ %!  J
+n&IJ	gE"	û|
+'  $!J
+n&IJ	"pE"	†|
+ )!!D  3J
+n&oJ	gq"	öz
+  ;
+&"	òz
+ +!!D  3J
+n&oJ	g"pq"	ñz
+  
+"	ú|
+#  ;
+efd 	gK"	ö|
+   #r;
+&"	ö|
+ )  3d
+aefd 	gKh"	ú|
+ ;
+&"	ñz
+  ;
+s"	ñ|
+   3
+tsu"	ñz
+   3
+tsu"	ñx
+   3;
+t%vsu"	ñv
+   3;
+t%vsu"	ñx
+   3
+tsu"	òv
+   3
+tsu"	ñv
+  ;
+s"	ñv
+ %;
+ 5?Sw&xy'z"	ƒt
+ ?2!{($;
+ 9s)x%|}~ÄÅÇÉ'ÑÖ"	¿x
+6)!{($Ü
+ 9s)x%|}ÄÅÇÖ"	ƒt
++;
+ 5sáàâ&xy'ä"	¿x
+;.!{($%
+ 9s)x%|*ã}+åÄÅÇÖ"	¬v
+ ;
+ 5?.ç"	ƒn
+;.!{($%
+ 9s)x%|*ã}+åÄÅÇÖ"	»p
+6)!{($Ü
+ 9s)x%|}ÄÅÇÖ"	Ãn
+(;
+ 5?éè&xy'ê"	ƒt
+ 6)!,{;
+ 9s~ë&íÉ'ÑÖ"	»r
+:-!{($Ü;
+ 9?)x%|}ÄÅÇÖ"	Œl
+*!;
+ 5-ì?.ç&í"	Œn
+  ;
+ 5s.ç"	∆p
+ ;.!,{3
+ 9s*î+ï.ñ&í/ó0ò1ôÖ"	–p
+ @3!,{3
+ 9s*î2+ï3ö.ñ&í/ó0ò1ôÖ"	–n
+ 1$!,{;
+ 9~&íÉ'ÑÖ"	“n
+ A4!{($3
+ 9s)x%|}Ä.õÅÇ/ú0ù1ûÖ"	∫~
+4'!{($Ü
+ 9)x%|}ÄÅÇÖ"	¿x
++!{($Ü;
+ 9)x%|Ö"	∫~
+7'!{($Ü
+ 9)x%|}ÄÅÇÖ"
+	‡Ã. %=/!!D7ü  3J
+ns†°J 	¢££§"	∞í
+ :,•ç'¶!  3
+ns°	¢££ß"	∞í
+ /!3ö.®0©1™ 53&x
+2s+´"	∞î
+ :,!{($%
+ 9)x%|*ã}+åÄÅÇÖ"	™ö
+;
+ 5?"	¨í
+5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	Æí
+*¨≠ß'ê 5;&x
+?"	¨ò
+5'3
+ 5s2+´3ö.®&x/Æ4Ø0©1™"	Æî
+ 9+!{($Ü;
+ 9)x%|}ÄÅÇÖ"	Æí
+ 8*!D7∞5ü  3
+±s°	¢££ß"	Æí
+ '3
+ 5s*î+≤.ç"	Æí
+ 5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	∏Ä
+5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	∂Ü
+ 5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	∞í
+	5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	¥à
+
+9+!{($Ü;
+ 9)x%|}ÄÅÇÖ"	¥Ü
+ 9+!{($Ü;
+ 9)x%|}ÄÅÇÖ"	¥à
+4&!{($3
+ 9)x%|}ÄÅÇÖ"	∂Ñ
+3%!!D  J
+n°J 	¢££§"	‚å
+14&!!D  J
+n†°J 	¢££§"	∞î
+2-!!D  3J
+n&oJ	gq"	òz.!!D  3J
+n&oJ	g"pq"
+	‚å'  ≥
+a¥≥	c"	∂
+  ≥
+ac"	Ç¶
+'  ≥
+a¥≥	c"	Ó∏
+  ≥
+ac"
+	Ó∂#4*!3
+ 9&4	:"	êË
+!*!3
+ 9&4	:"	ÓÙ
+  
+ac"
+	¢ú8Q 
+"	∏˛
+ 
+ 
+"	∂Ä
+ µa 
+"	≤˛
+∂∑ 
+"	∂˛
+ 6  3∏
+π∫"	∞¸
+6  3∏
+π∫"	∂Ä
+8*6  3ª
+πºΩæ	øø¿"	ûÚ
+
+  
+	¢¡"	äÊ
+ &
+ ø¬	ø√"	à‰
+  
+	¢¡"	äÊ
+8*6  3ª
+πºΩæ	øø¿"	äÊ
+8*6  3ª
+πºΩæ	øø¿"	∞¸
+9 
+"	úÚ
+;
+ 5?ƒ"	úú
+;
+ 5sƒ"	ûö
+≈∆ 5«
+"	òû
+*!3
+ 9&4	:"	òû
+  ≥
+ac"	∞à
+
+<.6  3;ª
+πºΩæ	øø¿"	∏Ä
+ 8*6  3ª
+πºΩæ	øø¿"	∂Ä
+8*6  3ª
+πºΩæ	øø¿"	¬Ç
+	!3
+ 9:"	Æî
+!3
+ 9:"	∆Ü
+.A 5
+"	∏é
+∂» 5…
+"	∂ê
+# À 5;
+Ã"	¶ò
+ "!3;
+ 9:"	Æî
+ "!3;
+ 9:"	¨î
+ $.Õ 5;
+?ƒ"	¨í
+!3
+ 9:"	¨î
+!3
+ 9:"	¶ò
+!  
+aŒ	c"	®í
+#;;
+ 5?ƒ"	®ñ
+  .A 5;
+?"	®í
+"3
+ 5?+œƒ"	¢ò
+
+–— 5
+"	ûú
+;
+ 5?ƒ"	¶ñ
+"!3;
+ 9:"	¶ò
+ "!3;
+ 9:"	§ò
+ !S“ 5;
+?"	¶ò
+;
+ 5Ã"	§ö
+!  
+aŒ	c"	¶ò
+%  3
+asŒ	c"	¢ú
+  Ü
+as+”c"	¢û
+ "‘’ 5;
+?"	ûú
+ ,  3c
+asdŒ7÷c"	†¢
+'S◊ 
+dŒ7÷"	ú∏
+ (  c
+adŒ7÷c"	††
+(  c
+adŒ7÷c"	ö∏
+!3
+ 9:"	§ò
+5*!3
+ 9&4	:"	Ó¨
+*	ÿ@ 5
+"	æå
+. !3;
+ 9&4	:"	»Ñ
+
+ "	∆Ñ
+ 	.Õ 
+"	¬Ñ
+ 
+∂∑ 
+"	ƒÇ
+ 8*6  ;ª
+πºΩæ	øø¿"	ƒÑ
+! Ÿ 5
+ƒ"	ƒÇ
+ 8*6  ;ª
+πºΩæ	øø¿"	 Ü
+8*π;ª
+  6øº	øΩæ¿"	ƒÑ
+"!3;
+ 9:"	∆Ü
+	ÿ@ 
+"	 Ü
+ $⁄€ 5…
+ƒ"	÷¸
+*!3
+ 9&4	:"	÷¸
+*!3
+ 9&4	:"	»Ñ
+@ 5
+Ã"	ÃÜ
+	7)!‹›'91ﬁ  #ﬂ3‡&·
+?‚	"	¯⁄
+ 4&!‹›'9  #ﬂ3‡&·
+?‚	"	˙⁄
+ ;-„!8‹‰'9  ;‡
+2Â?‚	Ê"	˙ÿ
+ 2$„!8  ;í
+Â?Á	ËÊ"	¯ÿ
+ /!!'È  #ﬂ3‡&·
+?‚	"	˙ÿ
+I;ÊÍ9:  3;,;‡<í=Î
+2ÂsÏÌ‚	ÓÔ"	ÙÃ
+>0„!9:  3;‡<í
+2ÂsÁ‚	ËÊ"	ˆ‘
+2$>,Â3
+!  s!D‚	Ê"	æ
+ 8*>,Â3
+!  s‹!DÒ‚	Ê"	ƒ
+ C5>,Â%
+!  s2+Ú3Û!D‚	.Ù0ı1ˆÊ"	¬
+ >0!.˜0¯1˘  Ü,í
+*˙Âs‚	+˚Ê"	ƒ
+ 6(!‹‰'9  3,
+Âs‚	Ê"	Ú∆
+6(!‹‰'9  3,í
+Â?‚	Ê"	Ú»
+ A3!3¸.˜0˝1˘  Ü,í
+*˙Â?‚	+˛Ê"	Ú∆
+ >0!.˜0˝1˘  Ü,í
+*˙Âs‚	+˚Ê"	∆
+ 
+ˇÄ 
+"	Ú 
+ . !  3,í
+Â?‚	Ê"	ÙÃ
+1#!  3,í
+Â?‚	+≤Ê"	Ú»
+ . !  ;,í
+Â?‚	Ê"	Ú 
+2$>,Â3
+!  s!D‚	Ê"	¥
+ 2$>,Â3
+!  s!D‚	Ê"	¥
+ 
+2$!!D  3>,
+Âs‚	Ê"	¬
+ 2$>,Â3
+!  s!D‚	Ê"	™
+ 
+. >Â3
+!  !D‚	Ê"	∞
+ . !!D  3>
+Â‚	Ê"	¶
+ . !!D  3>
+Â‚	Ê"	®
+	. >Â3
+!  !D‚	Ê"	Úû
+*  3
+Â‚	Ê"
+	Úû
+'(  3
+Â‚	Ê"	¸Ù
+	*Å 
+"	˙˙
+ Ç 
+"	˙Ë
+ (  3
+Â‚	Ê"	¯‡
+Ç 
+"	˙Ï
+ )ÂÜ
+  ‚	Ê"	¯‚
+ <.,ÂÉ
+  s*Ñ+Ö‚	.Ü/á1àÊ"	¯⁄
+6(ÂÜ
+  s+â‹ä‚	'9Ê"	¯‹
+ +ÂÜ
+  s‚	Ê"	¯ﬁ
+ )  Ü
+Â‚	Ê"	¯⁄
+ )ÂÜ
+  ‚	Ê"	ˆÿ
+,;
+ s%"	ˆÿ
+ =/!,ÂÜ
+  s%v?‹ã‚	'9Ê"	ˆÿ
+ @2!ÂÉ
+  ?*å2+ç3é‚	.è/êÊ"	ˆ÷
+ ;-!,ÂÜ
+  s?‹ã‚	'9Ê"	ˆ÷
+ #(;
+ s%‹Ä5Ò"	ˆ÷
+ C5!,ÂÜ
+  s?2+â‹3ëã‚	'9Ê"	Ù÷
+ )($;
+ s@Ã"	Ù‘
+ >0!ÂÜ
+  ‹Ò‚	.í'9/ì÷Ê"	Ù‘
+(îî( 3,
+%s+ï"	Ú‘
+ 3%($3
+ s%ñ+óòôÃ"	Ú‘
+ @2.öõ/ú!  ù,
+*åÂs‚	+ûÊ"	Ù‘
+ ;-!ÂÉ
+  ?*å+ç‚	.è/êÊ"	Ù÷
+ ;
+ 5@"	Ú“
+ :,!ÂÜ
+  %v?üõ‚	0†Ê"	Ú‘
+ @2!Âù
+  %v?*å+û‚	.ö/°0¢Ê"	Ú“
+ M?!,ÂÜ;
+  ?%v?+£‹Ò‚	.í'9/ì÷Ê"	Ú“
+ *!3
+ 9&4	:"	Ù–
+A3!,Â(Ü
+  s%òõ‚	.§/•Ê"	–
+G9!,Âù
+  s%v?+¶‚	.ß/®4©1™÷Ê"	Ú–
+ &´ôÊ 5¨;
+"	“
+ ?1!Âù
+  s?2+≠3Æ‚	.Ø/∞Ê"	Œ
+  ;
+ 5s.A"	Ú–
+ *!3
+ 9&4	:"	“
+&±≤Ê 5≥;
+"	Ù“
+ @ 5
+"	Ù“
+$¥µÊ 5≥
+"	¯–
+/!!ÂÜ
+  s‚	Ê"	ÓÃ
+<.!ÂÜ
+  s?+∂‹Ò‚	'9Ê"	–
+ . !Â3
+  s‚	Ê"	Ã
+	. !Â%
+  s+∑‚	Ê"	Ï¬
+ .A 5
+"	‰‘
+ .A 5
+"	Ê‘
+ &3
+ 9&4	:"	“
+ ´ôÊ 5¨
+"	Ï‘
+ &3
+ 9&4	:"	‹÷
+#
+@ 5
+"	∫‰
+$∏π∫ 5ª
+"	∫‡
+ @ 5
+"	∏‡
+ $ºΩ∫ 5æ
+"	∂‡
+$ºø¿ 5æ
+"	Æ‰
+ .A 5
+"	∞‚
+&3
+ 9&4	:"	∏‡
+1@ 5
+"	ÑÚ
+ !¡¬ 5√
+"	ÜÓ
+ .A 5
+"	ÄÏ
+ *3
+ 9&4	:"	∂Ä`8".A 5
+"	∏ﬁ
+ $ƒπ∫ 5ª
+"	ºﬁ
+<.!{($%
+ 9?)x%|*ã}+åÄÅÇÖ"	Ü§
+ 7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	Ú™
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	é¢
+!;
+ 5s.ç"	å¢
+*;
+ 5s≈>∆&x5«»"	Ü§
+ ;-!{($Ü;
+ 9?)x%|}ÄÅÇÖ"	é¢
+ ;-!{($Ü;
+ 9?)x%|}ÄÅÇÖ"	ê¢
+ B4,Ü
+ 5s*î…+ À.Ã&xÕŒ/œ4–0—@“"	í†
+ . 3
+ 5s…S”‘’g@"	é§
+5',3
+ 5s*î…À&xÕŒ»@“"	ñ†
+ 7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	úû
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	ê¢
+
+
+;
+ 5s"	î¢
+(;
+ 5s≈>∆&x5÷»"	úû
+<.!{($%
+ 9?)x%|*ã}+åÄÅÇÖ"	ö†
+ B4!{($%
+ 9?)x%|*ã}Ä.◊ÅÇ/ÿ0ŸÖ"	¢û
+ 
+;
+ 5s"	¶ú
+*;
+ 5s⁄€‹&x5›¿'ﬁ"	†û
+ 3
+ 5s+≤"	®ú
+ ,3
+ 5s*î"	¶û
+ 7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	û†
+3
+ 5s.ç"	Æö
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	∂ò
+4&,3
+ 5s*î2+ﬂ3ö.‡¿/·4‚1„"	¨û
+4&;
+ 5s⁄€‹Å	¢&x5›¿'ﬁ"	¥ö
+ 7)3
+ 5s+‰⁄Å	¢.Â¿/Ê4Á1Ë"	≤ö
+  S” 53
+*îs"	Æú
+ #S” 53
+*îs+≤"	∞ú
+<.!{($%
+ 9?)x%|*ã}3ÈÄÅÇÖ"	¥ö
+!S” 5;
+?"	≤ö
+ <.!{($%
+ 9?)x%|*ã}+åÄÅÇÖ"	∂ò
+ 7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	ƒê
+:,!{($%
+ 9)x%|*ã}+åÄÅÇÖ"	»é
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	∏ò
+!3
+ 5s*î+≤Í"	Ãä
+;
+ 5?"	 å
+. ÎÏÊ'ê 5Ì;&í
+?"	∆ê
+);
+ 5s…Ó‘5Ô"	»é
+1#3
+ 5s*ãÒÂ&í5ÚÊ'ê"	 å
+ 9+Ü
+ 5s…+Û‘.Ù&íÊ/ı4ˆ1˜"	Ãå
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	‘Ü
+#;
+ 5s¯ÀÍ"	–à
+:,ÂÜ
+  s*˘+ÛA˙‚	.˚/¸1˝Ê"	–Ä
+ 3%Â3
+  s˛A˙ˇ‚	'¶Ê"	“Ä
+$;
+ 5s.ç&í"	“Ä
+
+*3
+ 5?¯.çÀ'9Í"	“Ü
+ 7)Ü
+ 5*˘¯+ÛÀ.Ä&Å/Ç4É1ÑÍ"	‘Ü
+ +òôÊ'ê 5;&·
+s"	“Ü
+:,Ü;
+ 5?*˘¯À.Ä&Å/Ç4É1ÑÍ"	÷Ñ
+;-!{($Ü;
+ 9?)x%|}ÄÅÇÖ"	÷Ñ
+9+!ÂÜ
+  *˘A˙‚	.Ö/Ü1˝Ê"	‘Ñ
+ 9+Ü
+ 5?*˘…‘.á&í/à4â0ä1ã"	“Ü
+ <.!ÂÜ
+  *˘+ÛA˙‚	.Ö/Ü1˝Ê"	‘Ü
+ ;-!{($Ü;
+ 9?)x%|}ÄÅÇÖ"	‘Ü
+=/Ü;
+ 5?*˘…‘.á&í/à4â0ä1ã"	‘Ü
+9+!ÂÜ
+  *˘A˙‚	.å/ç1éÊ"	÷Ü
+&;
+ 5s.ç&·'9"	‘Ñ
+ %èÄ 5;&í
+s"	⁄Ä
+	/!3
+ 5¯òôÀ&Å5'êÍ"	⁄Ä
+&3
+ 5…S”‘"	÷Ñ
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	÷Ñ
+$;
+ 5sS”&í"	ÿà
++êÄÊ 5-ë;&·
+s"	÷Ñ
+ @2!ÂÜ
+  s*˘+Û3íA˙‚	.ì'9/îÊ"	ÿä
+ ;-!ÂÜ
+  s*˘+ïA˙‚	.ñ/óÊ"	ÿä
+ =/!ÂÜ
+  s*˘+ÛA˙‚	.ì'9/îÊ"	ÿå
+ 0"!Â3;
+  ‚	Ê"	⁄ê
+ 0"!Â3;
+  ‚	Ê"	⁄é
+ 8*!Â%
+  s+ò‚	.ô/ö1õÊ"	⁄é
+ A3!ÂÜ
+  s*˙2+˚3ë‚	.ú/ù1ûÊ"	ÿé
+ /!!Â3
+  ò‚	Ê"	ÿå
+4&!Â3
+  üA˙†‚	'9Ê"	ÿà
+9+!Â3
+  s*˘òA˙‚	'êÊ"	÷Ü
+);
+ 5-ìsS”&·'9"	÷Ü
+ -°ô5Ê'ê 5;&í
+s"	Œä
+
+ ,5¢Ê 53&í
+?…‘"	Œä
+&3
+ 5?¯+£ÀÍ"	–Ü
+ ,!  3
+Â‚	Ê"	⁄ê
+ ,!  3
+Â‚	Ê"	‹î
+,!  3
+Â‚	Ê"	‡§
+,!Â3
+  ‚	Ê"	‚¶
+. !Â%
+  s+Ú‚	Ê"	‰Æ
+  "	‰Æ
+ . !Â3
+  s‚	Ê"	‰¨
+ /!!ÂÜ
+  s+”‚	Ê"	‰™
+ . !Â3
+  s‚	Ê"	‚™
+ . !Â3
+  s‚	Ê"	‚®
+ . !  3
+Âs‚	Ê"	⁄î
+8. !Â3
+  s‚	Ê"	Ï¿
+!3
+ 9:"	ºÆ
+*!3
+ 9&4	:"	¢¥
+*!3
+ 9&4	:"	û∂
+)*!3
+ 9&4	:"	¯–
+*. !Ü
+ 9&B§4	:"	Í¨
+ @ 5
+"	ÊÆ
+•¶ 5ß
+"	Ë¨
+!!3
+ 9B®:"	Ó™
+ 5
+"	Ê¨
+ *!3
+ 9&4	:"	¢¥
+H(.A 5
+©ƒ“ø"	∆¨
+™´ 5¨
+"	¬Æ
+ !≠´ 5¨
+"	‘¨
+ !3
+ 9:"	Ë¨
++@ 5
+"	“Æ
+8*π3ª
+  6øº	øΩæ¿"	Ú‹
+
+
+ "	ˆﬁ
+ 
+ "	Ùﬁ
+ 
+ "	ˆ‹
+ 8*π3ª
+  6øº	øΩæ¿"	ˆﬁ
+>0  ùC3D;E3ªπºΩæ	øøFÆ¿"	‹“
+4&π%ª  øº	øΩæ¿"	‚÷
+'Ø∞ 5±;&x
+s"	Œ‘
+;
+ 5s"	“–
+3
+ 5s"	‘–
+ !3
+ 5s.ç"	‘Œ
+ >0π;ª
+  ≤øˇº	øΩæ'9¿"	‘Œ
+ C5π3ª
+  +≥.øçº	ø.¥Ωæ'9¿"	÷–
+ )Ü
+ 5+µ.∂&x/∑4∏"	““
+ C5π3ª
+  +≥.øçº	ø.¥Ωæ'9¿"	ÿ–
+ 5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	Œ‘
+B4π;;ª
+  ≤øˇº	øΩæ'9¿"	‘–
+ K=πÜª
+  *π2+∫3ëøº	ø.ªΩæ/º1Ω¿"	÷–
+ . Ü
+ 52+µ3ë.∂&x/∑4∏"	÷“
+=/π3ª
+  s øº	øΩæ¿"	ÿ–
+ 9+π3ª
+  øº	øΩæFÆ¿"	⁄“
+>0  ùC3D;E3ªπºΩæ	øøFÆ¿"	⁄“
+ 9+π3ª
+  øº	øΩæFÆ¿"	ÿ“
+ 
+  "	⁄“
+ :,!{($%
+ 9)x%|*ã}+åÄÅÇÖ"	‹Ã
+ ;
+ 5s"	⁄Œ
+"3
+ 5s*î+≤"	ÿ–
+(∂æ5 5±;&Å
+"	‹Ã
+F8π3ª
+  *ã+≥.øçº	ø.¥Ωæ'9¿"	‘–
+ Gv;
+ 5s.ç"	“Œ
+:,!{($%
+ 9)x%|*ã}+åÄÅÇÖ"	–“
+5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	¬⁄
+:,!{($%
+ 9)x%|*ã}+åÄÅÇÖ"	æﬁ
+"3
+ 5s*î+≤"	º‡
+ $3
+ 5s*îS”"	∏‚
+-3
+ 5s*î+‰.ø&x´/¿"	¥‚
+ "3
+ 5s*î+≤"	¥ﬁ
+ '¡´ 5¬;&x
+?"	∞‰
+;
+ 5s"	¥‡
+:,!{($%
+ 9)x%|*ã}+åÄÅÇÖ"	≤‚
+5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	öÚ
+$,!{($Ü;
+ 9)x%|Ö"	˛¯
+ ,!{($Ü;
+ 9)x%|Ö"	Ç¯
+ 5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	Ä¯
+5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	Æ‰
++$3
+ 5s*î.ç"	∂ﬁ
+ ,Gv;
+ 5s.ç"	∂‹
+ -3
+ 5s*î+ﬂ.√&x´/ƒ"	∫‹
+;
+ 5s"	ºﬁ
+ '≈´ 5¬;&x
+?"	¿‹
+ 5'!{($Ü
+ 9)x%|}ÄÅÇÖ"	Ã‘
+7'!{($Ü
+ 9)x%|}ÄÅÇÖ"
+	®û7?23∆.«/»4…1û  Ü
+*˙Âs‚	A˙+ Ê"	‚n
+ ?23¸.«/»4…1û  Ü
+*˙Âs‚	A˙+ Ê"	‚p
+ 3&ÂÜ
+  s*˙+À3∆A˙‚	Ê"	‚r
+ D7ÂÜ
+  s*˙+ 3∆A˙Ã‚	.Õ/Œ4œ1ΩÊ"	‰t
+ 3
+ sü›'9"	‰r
+ 3
+ s–—"	‚r
+ ;.ÂÜ
+  s*˙–3¸A˙Ã—‚	Ê"	‰r
+ ;.,ÂÜ
+  s*˘+ïA˙‚	/“0”1ãÊ"	‰~
+ )Â3
+  sA˙‚	Ê"	‚t
+
+/!Â3
+  sA˙Ã‚	Ê"	ÊÄ
+',;
+ süA˙ô5›'9"	‰D
+ 0#,;
+ s±A˙Ã‘‚	"	ËF
+8+,3
+ s2+ï’3öA˙Ã÷‚	"	ËD
+ 9,,(3
+ s%v?2+ï’3öÃ÷‚	"	ÍD
+ 2%,;
+ s2’A˙Ã÷‚	"	ËF
+ .!Â3
+  sA˙Ã‚	Ê"	‰p
+))Â3
+  sA˙‚	Ê"	ÊD
+*:-!HöI∆D  ùC3EÜ◊—%sÿŸ⁄"	∫>
+ =0!H€IëD  ùC3EÜ2‹—%sÿŸ"˚⁄"	º>
+ 0#!J›!D  3
+—%sÿŸ⁄"	öB
+- !!D  ;
+—%sÿŸ⁄"	î@
+'!D  —sÿŸ⁄"	öB
+ $;
+ sﬁè5‹ﬂ"	‡ú
+A3,ÂÜ
+  s*˙+˚’A˙Ã‚	.‡/·Ê"	ÊÇ
+ 6(,ÂÜ
+  s*˘+∂3∆A˙‚	Ê"	‰Ä
+ *Â3
+  sA˙‚	Ê"	‰Ñ
+
+/!  3
+Âs‚	ÃA˙Ê"	‚é
+5'Â3
+  s–A˙Ã‚‚	Ê"	‚ê
+ @2ÂÜ
+  s*˙+ 3¸A˙‚	.„/»4…1ûÊ"	‚é
+ E7ÂÜ
+  s*˙+ 3∆A˙Ã‚	.‰/Â4œ1ΩÊ"	‡í
+*Â3
+  sA˙‚	Ê"	‚ê
+5'–‚  3
+Âs‚	ÃA˙Ê"	‡ñ
+ @2ÂÜ
+  s*˙+˚3∆A˙‚	.Ê/Á0Ë1ûÊ"	‡î
+ 3%ÂÜ
+  s*˘A˙Ã‚	Ê"	‡ò
+ 2$Â3
+  sÈA˙›‚	'9Ê"	‡ñ
+ 6(ÂÜ
+  s*˘+∂A˙Ã‚	Ê"	‡ö
+ @2ÂÜ
+  s*˘+ÛA˙‚	.Í/Î4Ï0Ì1ÓÊ"	‡ò
+ $;
+ s‹Ä5‚Ê"	‰û
+5'Â3
+  s‹A˙Ã‚‚	Ê"	‡û
+ A3Â3
+  süA˙Ô‚	.'9/Ò4Ú0Û1ÙÊ"	‡ú
+$;
+ sﬁè5‹ﬂ"	‡û
+B4ÂÜ
+  s*˘+ÛA˙Ã‚	.ı/ˆ4˜0¯Ê"	‡†
+ ?1ÂÜ
+  s*˘A˙Ã‚	.ı/ˆ4˜0¯Ê"	ﬁ¢
+$;
+ s˘w5˙ﬂ'ê"	ﬁ§
+$;
+ s‹Ä5‚Ê"	‡†
+/!Â3
+  sA˙Ã‚	Ê"	‹≤
+1#ÂÜ
+  s*˘+∂A˙‚	Ê"	ﬁ®
+ 1#ÂÜ
+  s*˘+∂A˙‚	Ê"	ﬁ¶
+ E7ÂÜ
+  s*˘+ÛA˙Ã‚	.˚/¸4˝0Ì1˜Ê"	ﬁ¶
+ &;
+ s˛ô5ÔÊ'9"	⁄¢
+-Â3
+  s˛A˙‚	Ê"	ﬁ¢
+ A3Â3
+  s‹A˙Ã‚‚	.ˇ/Ä4Å0ÛÊ"	ﬁ§
+ =/ÂÜ
+  s*˘A˙‚	.Ç/É4Ñ0¯1ÑÊ"	ﬁ†
+ &;
+ s˛ô5ÔÊ'9"	ﬁ¢
+ F8,ÂÜ
+  s*˙2+˚3ëA˙Ã‚	.‡/Ö0ÜÊ"	ƒ‹
+ 1#ÂÜ
+  s*˘+∂A˙‚	Ê"	ƒ‹
+ =/,Â%
+  s+òA˙Ã‚	.á/à0âÊ"	ƒﬁ
+ #,Gv;
+ sä"	ƒ‹
+ *Gv;
+ s‹Ä5âÊ"	∆‹
+ 6(ÂÜ
+  s*˘+∂A˙Ã‚	Ê"	∆⁄
+ 7),Â3
+  s‹A˙Ãâ‚	Ê"	∆‹
+ D6,ÂÜ
+  s*˙2+˚3ëA˙‚	.ã/å0ç1éÊ"	ƒ⁄
+ !Gv;
+ sè"	ƒ⁄
+ /!Â3
+  sA˙Ã‚	Ê"	∆ÿ
+%*Â3
+  sA˙‚	Ê"	ﬁ™
+05'!{($Ü
+ 9)x%|}ÄÅÇÖ"	Ë˙
+9)!{($Ü
+ 9?)x%|}ÄÅÇÖ"
+	Ä¯
+<.!{($%
+ 9s)x%|*ã}+åÄÅÇÖ"	‚¸
+. ÒÂÊ'ê 5Ì;&Å
+s"	‰¸
+";
+ 5s…S”"	ﬁÄ
+&ê 53
+s…‘"	ﬁÄ
+2$3
+ 5s¯À.ë&Å/í4ì1™Í"	ﬁ˛
+ 0"3
+ 5¯À.ë&Å/í4ì1™Í"	‹˛
+(  3
+Â‚	A˙Ê"	Œ¸
+-Â3
+  A˙Ã‚	Ê"	 Ù
+(Â3
+  A˙‚	Ê"	ƒﬁ
+(Â3
+  A˙‚	Ê"	 Ù
+0"Â3
+  sèA˙¢‚	Ê"	‘Ñ
+	
+ 
+"	ö˛
+
+ 
+"	ò¸
+ 
+ 
+"	ú˙
+ 
+ 
+"	ö¯
+1#!  Kî
+ïseñó	ò"	ñ‚
+$1#!  Kî
+ïsñó	ò"	öÜ
+#
+ 
+"	öˆ
+ 8#!  Kî
+ïseñó	ò"	§P*
+N
+2!  
+ïñó	ò"	ñ‚*E0#  ôLö
+õúôù	Mû"	Ç\
+*  
+õsü†7“û"	àZ
+,°!  
+ïñó	ò"	®Z
+	 
+"	¨Ä
+ ,   ¢
+õúôù	Mû"	ph
+0#  ôLö
+õúôù	Mû"	Ñ\
+/#  ôLö
+õúôù	Mû"	ph
+,   ¢
+õúôù	Mû"	ht
+,   ¢
+õúôù	Mû"	nj
+ 
+"	jr
+  
+"	fv
+ 0$!  ¢
+õúôù	Mû"	hr
+1$!  ¢
+õúôù	Mû"	Và
+
+ "	l
+  
+"	f
+ ;
+ £	"	h
+ 6  3
+§s•"	f
+ 6  3
+§s•"	j
+
+;
+ sN"	h
+ 6  3
+§s•"	h
+  
+"	j
+ 6  3
+§s•"	z
+6  3
+§s•"	j
+6  3
+§s•"	~
+ 
+ "	|
+ 6  3
+§•"	~
+6  3
+§s•"	í
+ 6  3
+§s•"	í
+6  3
+§s•"	¶
+6  3
+§•"	
+ê
+ ;
+"	
+í
+  ;
+"	
+ê
+ 6  3
+§s•"	®
+
+ "	∏
+  6  Ü
+§s•"	∏
+ =0!  ¶LßOô
+õ®©™Pô	M´ö"	∫
+ 
+ "	∫
+  
+"	∏
+6  Ü
+§•"	æ
+ 6  Ü
+§s•"	∫
+ 
+"	æ
+ 
+"	º
+6  Ü
+§•"	æ
+ 6  Ü
+§•"	 ¿
+=0!  ¶LßOô
+õ®©™Pô	M´ö"	∂
+6  Ü
+§•"	∫
+6  3
+§s•"	¥
+"
+ ¨≠	Æ"	¨
+ 6  3
+§s•"	¶
+  "	¶
+ ,!  ô
+õùô	ö"	∫
+ 
+Ø	∞"	 ∂
+=0!  ¶LßOô
+õ®©™Pô	M´ö"	"≤
+ 
+"	∂
+6  3
+§•"	æ
+6  3
+§s•"	.º
+;
+ "	.º
+ 
+ "	.∫
+ 
+ "	0∫
+ !6  3
+§s•"		Jƒ	!6  3
+§s•"		.º
+
+ ;
+"	6§
+ =0!  ¶LßOô
+õ®©™Pô	M´ö"	Lê
+)",!  ô
+õùô	ö"	,¨
+  
+"	Dñ
+ ;
+"	Jí
+ =0!  ¶LßOô
+õ®©™Pô	M´ö"	Rä
+,!  ô
+õùô	ö"	Lê
+
+1$!  ¢
+õ±ôù	M≤"	VÜ
+
+ "	Dæ
+ 
+ "	Dº
+ 
+ "	Bº
+ 
+ "	Bæ
+ 
+ "	J¬
+  
+"	Jƒ
+  
+"	Hƒ
+ 
+ "	H¬
+ 6  3
+§s•"	P‘
+6  3
+§s•"	Hƒ
+ 6  3
+§s•"	R‰
+ 
+≥ ¥	µ"	^˛
+ 6  3
+§s•"	X˙
+ 
+"	X¯
+ 
+ "	X˙
+ 6  3
+§s•"	X¯
+6  3
+§s•"	RÍ
+"∂ 
+∑∏	"	RÊ
+ 
+∑∏	"	T‰
+"∂ 
+∑∏	"	P‡
+  
+∑∏	"	P‰
+  
+∑∏	"	R‰
+ #6  3;
+§s•"	RÊ
+ #6  3;
+§s•"	P‰
+ 
+∑∏	"	R‰
+ 
+∑∏	"	NÊ
+6  3
+§s•"	RÊ
+ 6  3
+§s•"	RÍ
+ "∂ 
+∑∏	"	RÍ
+ 
+ "	*æ
+,!  ô
+õùô	ö"	
+∆
+=0!  πLßOô
+õ∫ª™Pô	M´ö"	∫
+,!  ô
+õùô	ö"	 Ã
+
+=0!  ¶LßOô
+õ®©™Pô	M´ö"	
+∆
+	 
+≥"	  
+ *;
+ 5sº«Ω&xæ'ø"	B∫
+ 6)!  ;¿Ω¡¬	√√ƒ"	8∫
+;
+ 5s"	8∫
+*;
+ 5sº«Ω&xæ'ø"	2º
+3&!QD{($%
+ 9s%|}ÄÅÇÖ"	¬
+:3&!QD{($%
+ 9s%|}ÄÅÇÖ"	B∫
+9(;
+ 5s≈ß&‡∆'ø"	 æ
+ &;
+ 5s«¨»&x…'ø"	¬
+;
+ 5sS"	¬
+ 3&!QD{($%
+ 9s%|}ÄÅÇÖ"	¬
+ 3&!QD{($%
+ 9s%|}ÄÅÇÖ"	 ¬
+ 7*!QD{($%;
+ 9?%|}ÄÅÇÖ"	¿
+ $;
+ 5s ß&x∆"	
+¬
+ ;
+ 5s"	¿
+ ;
+ 5s"	¿
+!D!  
+ÀÃ"	ˆ
+	.!R°!D!  
+ÀÕŒÃ"	Ú
+
+ 
+"	ˆ
+  
+"	ˆ
+ .!R°!D!  
+ÀÕŒÃ"	ˆ
+!D!  
+ÀÃ"	 ˙
+.!R°!D!  
+ÀÕŒÃ"	 ˙
+!D!  
+ÀÃ"	&¸
+!D!  
+ÀÃ"	:¸
+ .!R°!D!  
+ÀÕŒÃ"	&¸
+ !  
+Ωœ"	B¬
+4'!  ¿
+Ω¡¬	√√ƒ"	:º
+ 
+"	@¬
+ 0#  ¿
+Ω¡¬	√√ƒ"	B¬
+
+  
+Ωƒ"	Fƒ
+&  ;
+Ω¡	ƒ"	Fƒ
+ &  ;
+Ω¡	ƒ"	F∆
+ "  
+Ω¡	ƒ"	F∆
+
+"  
+Ω¡	ƒ"	R“
+ 
+"	@˛
+ "  
+Ω¡	ƒ"	P“
+"  
+Ω¡	ƒ"	lÓ
+
+ 
+"	jÍ
+ '6!  3;
+§s•"	jÍ
+ #6!  3
+§s•"	jÍ
+ ¬– 
+"	jÊ
+ 
+"	lÓ
+ 
+"	jÏ
+ "  
+Ω¡	ƒ"	p
+
+¬– 
+"	j
+#6!  3;
+§•"	jÏ
+ 
+ 
+"	fË
+#6!  3
+§s•"	nÇ
+#6!  3
+§s•"	jÏ
+"  
+Ω¡	ƒ"	lÏ
+
+
+ 5"	rÚ
+ 
+ 5"	r
+ "  
+Ω¡	ƒ"	xˆ
+)  
+Ω—	¢““”"	xˆ
+ 
+"	~¸
+ )  
+Ω—	¢““”"	|¯
+*  
+Ω—	¢““”"	Ä¸
+)  
+Ω—	¢““”"	z¯
+ 
+"	xˆ
+ - ‘3
+ 96’	¢÷◊ÿ"	xÏ
+‘
+ 96Ÿ"	ÄÊ
+
+
+ 5"	zË
+1$‘3;
+ 96⁄	¢÷€ÿ"	vÓ
+ ‘;
+ 96Ÿ"	vÏ
+ - ‘3
+ 96’	¢÷◊ÿ"	vÏ
+ ‘
+ 96Ÿ"	xÏ
+ !‘3
+ 96Ÿ"	vÓ
+- ‘3
+ 96’	¢÷◊ÿ"	p
+
+
+ 5"	Ç‰
+!6!  3
+§•"	h¬
+(#6!  3
+§s•"	jË
+%
+ 
+"	fƒ
+ '6!  3;
+§s•"	h¬
+ '6!  3;
+§s•"	h¿
+ ‹ 
+"	hƒ
+ 
+ 
+"	fƒ
+‹ 
+"	h»
+
+ 
+"	jƒ
+ 
+ 
+"	jƒ
+ ;
+ 5s"	n≤
+(;
+ 5s›…§&Å•"	t∞
+ 6)!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	t∞
+ 3&!QD{($%
+ 9s%|}ÄÅÇÖ"	r∞
+ 6)!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	~Æ
+	3&!QD{($%
+ 9s%|}ÄÅÇÖ"	t∞
+
+ @3!QD{($%;
+ 9%|}TﬂU‡ÄVÅÇW·Ö"	~∞
+ 9+!QD{($%;
+ 9%|Sﬁ}ÄÅÇÖ"	ÄÆ
+ 6  3
+§s•"	f∞
+6  3
+§s•"	bñ
+ "	d™
+ %3
+  s’	g ‚"	`∂
+&3
+  s’	g “‚"	d≤
+ S” ;
+s"	f¥
+ %3
+  s’	g ‚"	d¥
+ #6!  3
+§s•"	f¥
+ #6!  3
+§s•"	f≤
+ &3
+  s’	g “‚"	f≤
+ $„‰• ;
+s"	d≤
+  .ç ;
+s"	f∞
+$ÂÊ• ;
+s"	j≤
+ .ç ;
+s"	f∞
+&3
+  s’	g “‚"	j≤
+ &3
+  s’	g “Á"	n∞
+#
+  s’	g Ë"	j≤
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	f¥
+8+!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	r∞
+ ;
+s"	h∂
+%3
+  s’	g ‚"	h¥
+%3
+  s’	g ‚"	f¥
+ $ÂÊ• ;
+s"	h¥
+  S” ;
+s"	h∫
+ #6!  3
+§s•"	h¿
+
+ 
+"	hæ
+ 
+ 
+"	fæ
+ È 
+"	fº
+ #6!  3
+§s•"	f¥
+$„‰• ;
+s"	`∂
+#3
+  ’	g Ë"	^∂
+ 
+ "	`¥
+ ;
+ 5s"	^¥
+(3
+ 5s›…§&Å•"	X∂
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	B∫
+$8+!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	f≤
+#
+
+ 5s"	>º
+6  3
+§s•"	bå
+	6  3
+§s•"	^Ä
+
+ Í"	bé
+ 6  3
+§s•"	bé
+ Í 
+"	bå
+  
+"	`å
+6  3
+§s•"	bê
+ Î 
+"	bê
+6  3
+§s•"	bê
+ 6  3
+§s•"	bî
+ 6  3
+§s•"	bé
+  
+"	fî
+ Ï	Ë"	dñ
+  
+"	dî
+  
+Ì	"	dñ
+ #6  3;
+§s•"	bî
+ #6  3;
+§s•"	bñ
+  
+"	bñ
+  
+"	bî
+ 
+"	^ñ
+  
+"	`ñ
+Ó 
+Ì	"	dö
+ 5'!  ;Kî
+ïsñó	ò"	öà
+ 
+ 
+"	òä
+ 
+"	òÑ
+  
+"	úà
+ 1#!  Kî
+ïsñó	ò"	ññ
+1#!  Kî
+ïseñó	ò"	öÜ
+0"!  
+ïsÔ“	¢“"	ññ
+ 6(!  Kî
+ïsÔ“	¢“"	ò¶
+4&!QD{($%
+ 9s%|}ÄÅÇÖ"	Ä∞
+5'!QD{($%
+ 9%|Sﬁ}ÄÅÇÖ"	åÆ
+ 
+
+ 5s"	öÆ
+3%!{($%
+ 9s%|ÒÚÅÇÖ"	ò¨
+
+ 7)!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	¢¨
+	 +;
+ 5sÛÙï&x'ø"	†¨
+ 6(!  Kî
+ïsÔ“	¢“"	ò¨
+ 0"!  
+ïsÔ“	¢“"	ò™
+  !  ;
+ï"	ò¨
+  !  ;
+ïı"	òÆ
+ 2$!{($%
+ 9s%|}ÄÅÇÖ"	îÆ
+4&!QD{($%
+ 9s%|}ÄÅÇÖ"	éÆ
+ +;
+ 5sˆÙï&x'ø"	éÆ
+ ;
+ 5s.ç"	ñ¨
+	7)!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	ò¨
+ 
+"	ò™
+0"!  
+ïsÔ“	¢“"	ñ¶
+!;
+ 5s.ç"	≤™
+*;
+ 5s˜¯˘&x'˙"	™¨
+ 3%!{($%
+ 9s%|ÒÚÅÇÖ"	¢¨
+ 7)!QD{($%
+ 9s%|Sﬁ}ÄÅÇÖ"	¥¨
+ 3%!{($Ü
+ 9s%|}ÄÅÇÖ"	∫¨
+ 4&!{($Ü
+ 9s%|ÒÚÅÇÖ"	≤¨
+ (;
+ 5s˚¸˝&x˛"	‰¨
+	;
+ 5s"	‡Æ
+
+;
+ 5s…"	Ú®
+;
+ 5s"	¯®
+7)!{($Ü
+ 9?)x%|}ÄÅÇÖ"	Ç§
+5%!{($Ü
+ 9s%|}ÄÅÇÖ"
+	Ú®6&!{($Ü
+ 9s%|ÒÚÅÇÖ"
+	∫¨ ;
+ 5s"	‘Æ
+ $;
+ 5s˚¸˝&x˛"	ÃÆ
+
+;
+ 5s"	æÆ
+ &;
+ 5s˜¯˘&Å"	∆¨
+ .A 5
+"	ÇÓ
+!ˇ¬ 5√
+"	Ù
+
+ !Ä∆ 5Å
+"	
+ 
+
+ 5"	ÍÙ
+*≈∆ 5Å
+mÃÇÉ"	‚Ù
+ 
+ 5"	ÊÙ
+ 
+
+ 5"	ËÚ
+ &3
+ 9&4	:"	ÜÓ
+I!
+ 5TÑU‡W·"	÷˙
+!
+ 5TÖU‡W·"	“ˆ
+Ü 5á
+"	ÿˆ
+ @ 5
+"	 ¸
+. à˘ 5â
+…ä	Œãã"	º˛
+ &3
+ 9&4	:"	º˛
+
+
+ 5"	zË
+. ‘3
+ 96’	¢÷◊ÿ"	îÊ
+ . ‘3
+ 96’	¢÷◊ÿ"	ÄÊ
+ *  %‘’÷◊	¢ÿ"	îÊ
+ 
+ 5"	~ä
+åçé 5è
+"	ÑÜ
+Ü
+ 9:"
+	∂Ä'94%Ü
+ 9êãë	ãë í:"		Zñ4(
+ 5"	íÇ
+ìï 5î
+"	éÑ
+ @ 5
+"	îÑ
+ïΩ” 5ñ
+"	òÇ
+ ó˘ 5â
+"	†Ç
+ .A 5
+"	¶Ä
+òÜ 5á
+"	∏Ä
+ 
+ "	r†
+  
+"	t¢
+ 
+"	t§
+ 6  3
+§s•"	pê
+(6  3
+§s•"	x∏
+'%
+ ôö	ôõ"	v™
+ 
+ „‰•"	lí
+
+ @"	rí
+(!3
+  ÕŒ©"	pê
+ #6  3;
+§s•"	pé
+ 
+ @"	rñ
+(3
+  @ÕŒ©"	rê
+úΩ” 5ñ
+"	vå
+   
+ä"	Äà
+	
+ 5"	~à
+#6!  3
+§s•"	ré
+ÂÊù 
+"	vå
+
+  „‰•ä"	vå
+'6!  3;
+§s•"	rê
+ 
+  ä"	ré
+ 6  3
+§s•"	pà
+ !
+ .A"	pà
+#6!  3
+§s•"	nÇ
+/"!  3;
+ÀÕŒÃ"	`î
+ !3
+  ©"	^ñ
+ +!  3
+ÀÕŒÃ"	bî
+ !;
+  ©"	dñ
+!3
+  ä"	lê
+(!3
+  ÕŒ©"	hî
+
+  .Aä"	pé
+1$!3
+  ÂÊÕŒ•©"	lí
+.A 5
+"	Zî
+›§• 5è;
+"	Zñ
+ +!  3
+ÀÕŒÃ"	\í
+)!  
+ÀÕŒÃ"	Zê
++!  3
+À+ÕŒÃ"	dî
++!D!  
+ÀÕŒÃ"	Tå
++!D!  
+ÀÕŒÃ"	Xé
++!D!  
+ÀÕŒÃ"	Tå
++!D!  
+ÀÕŒÃ"	:¸
+ 
+"	JÑ
+  
+"	FÇ
+  
+"	DÄ
+ 
+ 5"	Fú
+ûü 5†
+"	Nò
+ 
+ 5"	Hö
+&Ü
+ 94:"	&§
+4
+
+ 5°¢"	™
+
+ 5"	"¶
+*Ü;
+ 94:"	&¶
+ R
+ 5"	*§
+R
+ 5°¢"	0†
+
+
+ 5°ü"	4†
+ !Ü
+ 9:"	Tñ
+-
+
+ 5£§"	<û
+ 
+ 5"	∞
+
+
+ 5•¶"	¨
+Ü
+ 9:"		&§%
+ 5"	≤
+Ü
+ 9:"		æ &
+
+ 5•¶"	 ∂
+ 6
+"	ó¢
+ 6
+"	ü¢
+ 6
+"	ü¢
+ 'ß  36
+}®	©"
+	ü¢
+ "	Cî
+
+ "	Gå
+ 
+ "	CÑ
+ !
+  ™´"	;Ç* 
+!
+  ™´"	;Ä* 
+ "	#ä
+ 
+ "	-ö
+ 
+ "	9˙
+ 
+  ™´"	9Ä
+ 
+ "	9˛
+
+  ™´"	9˙
+
+ 9™´"	9˙
+ 
+ 9™´"	9¯
+ 
+ 5T¨U‡W·"	9ˆ
+ 
+ 5T≠U‡W·"	5¯
++Æ3
+ 9™TØU‡VW·´"	9¯
+	+Æ3
+ 9∞TØU‡VW·´"	Cÿ
+
+ 
+ 5"	∏
+
+
+ 5•±"	º
+
+ 5"	∏
+
+ 5"	∫
+
+ 5≤"	æ
+ Ü
+ 9:"	º
+ Ü
+ 9:"	-º
+
+ 5"	'æ
+ 
+ 5"	+æ
+ 	
+ 5≥"	-º
+Ü;
+ 9:"	-º
+ Ü;
+ 9:"	/º
+ Ü
+ 9:"	/º
+ Ü
+ 9:"	5º
+ ';
+ 5¥µ	ÃÉ:"	7æ
+Ü
+ 9:"	9æ
+'3
+ 5∂∑ƒÉ:"	7º
+
+ 5"	A¿
+
+ 5"	=æ
+ 
+3
+ 9:"	G¿
+$3
+ 5∂ƒÉ:"	=æ
+ 
+ 5"	I¿
+
+ 5"	[¨
+
+ 5"	]™
+
+ 5T∏U‡W·"	{¨
+
+ 5"	u∞
+
+ 5"	e¨
+
+ 5"	aÆ
+ 
+ 5"	k¨
+
+ 5"	k∞
+
+ 5TπU‡W·"	{≤
+% 9Ü
+Æ™´"	M¬	=& 9Ü
+Æ∞´"	õ≤>
+
+ 5"	y∞
+ 
+ 5"	ÅÆ
+
+ 5"	o»
+ 
+
+ 5∫ª"	s»
+ 
+ 5º"	e»
+
+ 5"	k»
+ Ü
+ 9:"	Å 
+:	$  3
+∂ƒÉ:"	Cæ
++
+" 9Ü4	"	7º
+I)  3
+ΩæÃÉ	:"	o»
+.
+ 5"	Qº
+ 
+ 5"	O¿
+0#ÆÜ;
+ 9∞TØU‡VW·´"	O¬
+ 
+ 5"	M¬
+ ø
+ 5"	Qƒ
+
+ 5"	K∆
+,ÆÜ
+ 9∞TØU‡VW·´"	M¬
+,ÆÜ
+ 9™TØU‡VW·´"	G 
+0#ÆÜ;
+ 9™TØU‡VW·´"	EŒ
+0#ÆÜ;
+ 9∞TØU‡VW·´"	G 
+%ÆÜ;
+ 9∞´"	E“
+ !ÆÜ
+ 9∞´"	EŒ
+ ÆÜ
+ 9´"	C“
+
+ 5"	C“
+ÆÜ
+ 9´"	C÷
+ !ÆÜ
+ 9∞´"	C“
+ 
+ 5"	C‘
+ 
+ 5"	?‘
+,ÆÜ
+ 9™TØU‡VW·´"	Cÿ
+ ,ÆÜ
+ 9∞TØU‡VW·´"	C÷
+ 
+ 5"	E“
+ 
+ 5"	E÷
+
+ 5"	A⁄
+Ü;
+ 9:"	Å 
+ Ü;
+ 9:"	É 
+ 
+ 5º"	èÃ
+ Ü
+ 9:"	É 
+Ü
+ 9:"	óŒ
+
+ 5"	ãÃ
+ 
+ 5"	ü–
+ 
+
+ 5¿¡"	ù–
+ 0"Ü
+ 9T¬U‡4	VW·:"	óŒ
+Ü
+ 9:"	ü–
+" 9Ü
+Æ™´"	õ∞
+" 9Ü
+Æ∞´"	ü≤
+ A3!QD{($%;
+ 9%|}TﬂU‡ÄVÅÇW·Ö"	Ö»
+ A3!QD{($%;
+ 9%|}T√U‡ÄVÅÇW·Ö"	á»
+ ;
+ 5s"	É 
+	
+ 5S”"	ë 
+ ,;
+ 5sƒÅ≈&í∆'ø"	â»
+ 4&!QD{($%
+ 9s%|}ÄÅÇÖ"	ç 
+;
+ 5s.ç"	ï 
+4&!QD{($%
+ 9s%|}ÄÅÇÖ"	á»
+!;
+ 5s«√»&x"	ùÃ
+ 4&!QD{($%
+ 9s%|}ÄÅÇÖ"	üŒ
+,  
+…Õù  ö"	ô™
+.   
+…Õù  ö"	ì™
+  
+"	ì¨
+ ,  
+…Õù  ö"	ì¨
+7)  ¢LÀ
+…ŒÕùPÃ	MXÕÃ"	ü™
+ ,  
+…Õù  ö"	ô™
+&  
+…ùÕ	ö"	É™
+ &  
+…ùÕ	ö"	Ö™
+ )  
+…Õù ö"	á™
+ )  
+…Õù ö"	Ö™
+  
+"	è™
+ 
+"	ç¨
+ ,  
+…Õù  ö"	è™
+ ,  
+…Õù  ö"	ç™
+ ,  ¢
+…ÃÕù	MÀ"	á™
+ ,  ¢
+…ÃÕù	MÀ"	ç™
+ 9,!  Üö
+õsúùô	û"	iû
+ 8+!  %ö
+õsúùô	û"	gú
+ ;.!  %ö
+õsúùô	+Œû"	gû
+ ;.!  %ö
+õsúùô	+Œû"	eú
+ 4'!  Üö
+õúùô	û"	k†
+9,!  Üö
+õsúùô	û"	cö
+9,!  Üö
+õsúùô	û"	]ò
+@3!  ûLôOß
+õùúôP™	X´œö"	Mä
+8+!  3ö
+õsúùô	û"	Sê
+8+!  3ö
+õsúùô	û"	Mä
+8+!  3ö
+õsúùô	û"	Wî
+8+!  3ö
+õsúùô	û"	Sê
+9,!  Üö
+õsúùô	û"	]ò
+9,!  Üö
+õsúùô	û"	Wí
+7*!  ùö
+õúùô	+¶û"	_ò
+ ;.!  %ö
+õsúùô	+Úû"	]ñ
+  
+"	g∏
+1$!D  À
+ÀŒÃÕ	Ã"	yÆ
+1$!D  À
+ÀŒÃÕ	Ã"	]¬
+3&  Üö
+õsúùô	û"	kû
+ 3&  Üö
+õsúùô	û"	k†
+5(  Üö
+õsúùô	û"	™
+	8*!D  Üö
+õsúùô	û"	Å™
+  
+"	}¨
+ 6)  öLô
+õúùô	 Õû"	w¶
+'!D  
+ÀùÕ	ö"	¨
+%  
+ÀùÕ	ö"	yÆ
+	&  
+ÀùÕ	ö"	Å™
+#;
+ 5sº√»&x'ø"	}»
+ 3&!QD{($%
+ 9s%|}ÄÅÇÖ"	e»
+ 6(!QD{($%
+ 9s%|}ÄÅÇÖ"	Ö»
+  ";
+ 5s–—À"	k»
+;
+ 5s"	i»
+ /"!D!  ;
+ÀÕŒÃ"	E‡
+ +!D!  
+ÀÕŒÃ"	C‡
++!D!  
+ÀÕŒÃ"	G‹
+5(!D!  À
+ÀŒÃÕ	Ã"	SŒ
+5(!D!  À
+ÀŒÃÕ	Ã"	G‹
+5(!D!  À
+ÀŒÃÕ	Ã"	M‘
+5(!D!  À
+ÀŒÃÕ	Ã"	Y∆
+5(!D!  À
+ÀŒÃÕ	Ã"	SŒ
+@3!QD{($%;
+ 9%|}TﬂU‡ÄVÅÇW·Ö"	W»
+ @3!QD{($%;
+ 9%|}T√U‡ÄVÅÇW·Ö"	Y»
+ 3&!QD{($%
+ 9%|}ÄÅÇÖ"	e»
+ </!QD{($%
+ 9%|}TﬂU‡ÄVÅÇW·Ö"	Y»
+ 1$!D  À
+ÀŒÃÕ	Ã"	Y∆
+1$!D  À
+ÀŒÃÕ	Ã"	_¬
+$;
+ 5s“—À&x"	K»
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	W»
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	;»
+ ;
+ 5s"	M 
+";
+ 5sù”‘"	=»
+;
+ 5s"	7»
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	=»
+5(!QD{($%
+ 9s%|}ÄÅÇÖ"	)∆
+";
+ 5sù”‘"	)∆
+ @3!QD{($%;
+ 9%|}T’U‡ÄVÅÇW·Ö"	!∆
+ 3&!QD{($%
+ 9s%|}ÄÅÇÖ"	%∆
+ 3&!QD{($%
+ 9s%|}ÄÅÇÖ"	!ƒ
+5(!QD{($%
+ 9s%|}ÄÅÇÖ"	%∆
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	)∆
+ ;
+ 5s"	/»
++!D!  
+ÀÕŒÃ"	;Ë
+)!D!  
+ÀÕŒÃ"	C‡
++!D!  
+ÀÕŒÃ"	)Ó
+)!D!  
+ÀÕŒÃ"	;Ë
+.!R°!D!  
+ÀÕŒÃ"	)Ó
+!D!  
+ÀÃ"	Ó
+ .!R°!D!  
+ÀÕŒÃ"	
+
+  
+"	Ú
+!D!  
+ÀÃ"		Ú  
+"	Ú
+ 0!R°!D!  
+ÀÕŒÃ"		  
+"	Ú
+  
+"	Ú
+ 5(!QD{($%
+ 9s%|}ÄÅÇÖ"	∆
+5(!QD{($%
+ 9s%|}ÄÅÇÖ"	¬
+*;
+ 5s÷¨»&x…'ø"		¬
+;
+ 5s◊{"	¿
+@3!QD{($%;
+ 9%|}T’U‡ÄVÅÇW·Ö"	¬
+ @3!QD{($%;
+ 9%|}TﬂU‡ÄVÅÇW·Ö"	 ¬
+ B3!  ûLôOß
+õùúôP™	X´œö"		'Ù@3!  ûLôOß
+õùúôP™	X´œö"	'Ù
+B3!  ûLôOß
+õùúôP™	X´œö"		‡ 
+"	‡
+ 
+"	‚
+
+ 
+"	‰
+@3!  ûLôOß
+õùúôP™	X´œö"	⁄
+ 
+"	“
+ @3!  ûLôOß
+õùúôP™	X´œö"		‘
+=0!  ¶LßOô
+õ®©™Pô	M´ö"	“
+,!  ô
+õùô	ö"		÷
+.!  ô
+õùô	ö"		“ ?0!  ¶LßOô
+õ®©™Pô	M´ö"		 Ã @3!  ûLôOß
+õùúôP™	X´œö"	ÿ
+@3!  ûLôOß
+õùúôP™	X´œö"	‚
+B3!  ûLôOß
+õùúôP™	X´œö"		IÜÃ$x
+water(Ä naturalboundaryadmin_levelhistoryeleplacegnis:createdgnis:state_idgnis:county_idgnis:feature_idnameattributionborder_typenist:fips_codenist:state_fipswetlandlanduse"
+	coastline"
+administrative"
+8"
+Retrieved from v2"
+0"
+island"
+
+01/23/1980"
+36"
+103"
+964794"
+Sedge Island"
+28"
+950885"
+Gardiners Island"
+Heady Creek"
+16"
+USGS 2001 County Boundary"
+county"
+36103"
+974250"
+Robins Island"	
+wetland"
+
+wet_meadow"
+residential"
+1"
+971856"
+islet"
+Youngs Island  "	∏C2C  "	Óq
+5.  "	îÅ
+%  "	Ü
+  "	é
+  "	§B		.  "&	∏CÇ 		 
+  "		“#  "		 G  "	ÿK
+  "	⁄G
+  "		ÿI  "	Ëi
+   "	˙i2	
+  "	¿ü
+  "	≤ë
+  "
+	¬ü
+0  "$	“Å*
+		 		 "
+"  "	àì	 
+ 	   "	äã
+  "	˙i2(
+	
+	#  "	–"1
+.$*  "	‹!
+  "	Ä	B %  "	Ü	Z
+)&  "	î	A
+
+  "	ò	7
+  "	ñ	1
+H  "@	‘
+gÍ %)	 
+ 	,  " 	Óãj
+ 
+ $%	4  ",	‘
+iö 	
+	
+ 	  		
+
+"		ﬁ
+_  "	
+â*  !  "	ÑOR 	  "	ûE
+   "	ûI"  "		òO&  	
+"	ÿü$;  "3	ûü≤	 +21  
+
+ 	+
+  "	å? 
+  "
+	–Ëk  "	Ãk
+  "	ÿo(  "	≤
+  "	Ñ,
+.  "	ò
+`
+T'  "	Ï
+8
+  "	“˛úE™W  "	Ë÷
+F*  ""	‰¢r
+ 
+ 
+g  "_	“ÿ‚)
+   	 	
+	
+ 3		 
+	
+  "	Æº
+*  "	ÿ¨
+  "	⁄™
+.  "	Óö  "
+	Çê  "	†ä* 
+!  "	àö
+	  "
+	öÑ  "	¶ä
+   "	¨Ü
+  "	¢ê
+  "	Æå
+   "	Æé
+"  
+"	˛ºJ E
+   
+"	Í∂"
+'  "	ä˛
+   "	ä¯"% 	  "	å¬
+   "	êæJ0
+
+  
+"	‹ƒ"	   "	û*"-83  	
+"	“,:%  	
+>  "6	‘p¬	 
+
+
+	 
+	    i  "_	∫î‚
+	
+;K#
+
+
+
+		     	 +	 "  "	‘	*3
+  o5  "
+	®Ú   "
+	≤⁄ 	  "	®‘
+
+  "	ÚÇ
+  "
+	ÜÙ5  "-	∫Œö"
+"
+
+   "	¿‘
+   "	¿–
+  "	ƒ‘
+   "	Ñ∆:W"		  "
+	∆‘  "	Ü˙
+b#  "	¬í
+0  "	¸"  "
+	»Ñ  "	ú†
+&  "	¬à"  "
+	≤Ü  "
+	§å  "
+	–∞     "	Ñ∆J
+	
+
+	  "
+	∏ê   "	˛æ
+  "
+	ûƒ  "
+	¶¿-  "%	–Ïz∫C			C 
+   "
+	ˆæ  "	ÙŒ*	    "
+	ÃŒ    "
+	∏Ê	
+  "
+	¨  1  ")	»ºä> 	.	.  $  "	ƒÜZ
+ 
+"    "		»/  "	¸"  3  "	¬ 
+   "	≤ 
+;  "	ˆ "
+  "	v$
+  "	x*
+  "	t/  "	D
+   "	T8		  "	D62
+  "	42   "	  "	."  "	22 
+	
+  "	8:
+		   "	:  "	ê∆"2  "	é∆
+   "	HÓ:	
+  "	2
+  "	ˆ
+  "	J⁄
+8  "0	ü®ö†-†7§O
+  -7/ "%	üˆ 	F*		  "
+	üÙ  "	ó¸	 
+  "	ëú
+   "	:‚:9
+
++  "	]Ë:
+  "	gÚ"]  "U	ü¯∫$	
+
+
+ 	
+		
+"	   "		    "	üÄ
+   "	+|"   "	!`
+#  "	OxJ
+	  
+"	+p  "	b"  "
+	J  "	B
+  "	!` 
+  "	T
+	  "	
+  "
+	%   "	Ep
+U  "	õå
+  "	ùé
+
